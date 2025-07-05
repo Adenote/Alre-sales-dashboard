@@ -29,7 +29,7 @@ Each table is stored in a different spreadsheet within the workbook.
 The File consist of three tables namely, order table, Customer table, Product table in separate spreadsheet.
 <a href="https://github.com/Adenote/Alre-sales-dashboard/blob/main/AlreOrdersData.xlsx"> Dataset</a>
 
-## ❓ Key Business Questions
+## ❓ Key Business Questions (KPIs)
 
 What is the sales trend over days, months, and years?
 
