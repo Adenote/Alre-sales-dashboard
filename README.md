@@ -94,8 +94,3 @@ Customer ranking visuals
 The analysis revealed that Liberista was the top-selling product in 2022, with the United States leading in both total and loyalty card sales. Excelsta performed best among loyalty users, and top customers like Brenn Dun* and Allis Wil* contributed significantly to overall sales. These insights highlight key areas for focused marketing, product promotion, and customer retention strategies.
 
 
-
-##Descriptions
-
-I developed comprehensive project in Excel, which included creating a dynamic dashboard and multiple tables to analyze the data. The process involved several key stages such as data preprocessing, cleaning and visualization.
-
