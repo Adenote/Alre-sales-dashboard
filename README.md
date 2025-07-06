@@ -1,4 +1,4 @@
-I developed comprehensive project in Excel, which included creating a dynamic dashboard and multiple tables to analyze the data. The process involved several key stages such as data preprocessing, cleaning and visualization.
+
 
 # 🛒 Project: Sales Performance Analysis for Alre Store
 
@@ -95,4 +95,7 @@ The analysis revealed that Liberista was the top-selling product in 2022, with t
 
 
 
+##Descriptions
+
+I developed comprehensive project in Excel, which included creating a dynamic dashboard and multiple tables to analyze the data. The process involved several key stages such as data preprocessing, cleaning and visualization.
 
